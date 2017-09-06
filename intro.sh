@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Hello, let me introduce myself"
+echo "Hi, let me tell you something about myself"
 
-NAME=Michael
-HOMETOWN=Indianapolis
-MAJOR=CS
-FAVORITE_HOBBY=read
-
-echo "My name is $NAME. I am originally from $HOMETOWN. My major is $MAJOR and in my free time I like to $FAVORITE_HOBBY"
+NAME=JeremiahWalker
+HOMETOWN=Kennewick
+MAJOR=ComputerScience
+FAVORITE_HOBBY=RPGS
+ 
+echo "My name is $NAME. I am originally from $HOMETOWN. My major is $MAJOR and in my free time I like to play $FAVORITE_HOBBY"
